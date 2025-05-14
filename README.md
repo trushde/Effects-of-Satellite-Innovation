@@ -2,4 +2,4 @@ The space is no longer as empty as it once was. Now, it’s a crowded, ever-grow
 
 Hey there, this was done by my friend Muneeb and I for our COMP 4304 course offered at Memorial University of Newfoundland.
 
-⚡ Video Walkthrough: https://www.youtube.com/watch?v=lsrhVRiLSdE
+⚡ Video Walkthrough: https://youtu.be/ybrPOHcY6k0
